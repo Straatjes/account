@@ -3,3 +3,5 @@ module "postcot_core" {
   cidr_block = "${var.postcot_core_vpc_cidr}"
   name = "${var.postcot_core_vpc_name}"
 }
+
+TEST CONTENT
